@@ -7,3 +7,5 @@ Partnered with Melissa on Tuesday Nov.3;
 Partnered with Miranda on Wednesday Nov.4.
 
 AT-AT Walker animation borrowed and adapted from r4ms3s, at http://codepen.io/r4ms3s/pen/gajVBG
+
+The current version, modified Nov.23, fixes some of the layout issues with the old one.
