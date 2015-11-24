@@ -74,6 +74,8 @@ label, input, button {
 #locations {
   display: flex;
   float: left;
+  background-color: Lightgray;
+
 }
 
 #merch {
